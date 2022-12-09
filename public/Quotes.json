@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Reliable jobs",
+    "text": "We only work with trusted, vetted companies. Our team works globally to eliminate fraud or illegal activity, ensuring the jobs you apply for are safe and secure.",
+    "img": "https://i.ibb.co/LYKRvsR/image1.png"
+  },
+  {
+    "id": 2,
+    "title": "Work from anywhere",
+    "text": "Fully remote, forever. With remote roles across multiple time zones, you choose where and when you work, creating a healthy, flexible work-life balance.",
+    "img": "https://i.ibb.co/PzMVPhX/talent-guy-2-e23cd9095fce00b7b81edde078cbcf3c.png"
+  },
+  {
+    "id": 2,
+    "title": "Fully supported",
+    "text": "Fully remote, forever. With remote roles across multiple time zones, you choose where and when you work, creating a healthy, flexible work-life balance.",
+    "img": "Wherever you are and whatever issues you may face, we’re here to help solve any challenges, fast!"
+  }
+]
